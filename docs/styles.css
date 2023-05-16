@@ -7,13 +7,3 @@ h1 {
   font-family: "MiFuentePersonalizada", Arial, sans-serif;
 }
 
-.bg-fondo {
-  background-image: linear-gradient(
-    to right top,
-    #000000,
-    #1a1919,
-    #2c2b2a,
-    #3f3e3c,
-    #515350
-  );
-}
